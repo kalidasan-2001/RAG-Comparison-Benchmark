@@ -9,7 +9,7 @@ We build the exact same RAG pipeline in both frameworks using the same data, the
 
 ### Prerequisites
 - Python 3.9+
-- A [Groq API Key](https://console.groq.com/) (Free)
+
 
 ### Installation
 Create a virtual environment and install the required libraries:
